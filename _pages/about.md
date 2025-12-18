@@ -64,8 +64,7 @@ I am a Graduate Research Intern at the Bioinformatics Institute, Singapore. Curr
 
 <p>&nbsp;</p>
 
-News
-====
+<h2 class="section-title">News</h2>
 	
  <div style="height: 500px; overflow: auto; w![237149619_2041424849347732_202933668616898933_n](https://user-images.githubusercontent.com/52663918/191795591-3ad8e2d3-7254-4906-87ea-c6bbe6165087.png)
 idth: 800px;">
