@@ -75,8 +75,8 @@ idth: 800px;">
 	   
 	<tr>
 			<td style = "border: none;color:blue;font-size:17px;">November 2021</td>
-    		<td style = "border: none;font-size:17px;"> Won the <b>1st runners-up</b> award at the <a href="https://uom.lk/elect/news_events/team-stimulus-university-moratuwa-wins-first-prize-3rd-regional-association"> 3rd International Energy and Electricity Market Business Decision
-			Simulation Competition</a>.</td>
+    		<td style = "border: none;font-size:17px;"> Won the <b>1st runners-up</b> award at the <a href="https://uom.lk/elect/news_events/team-stimulus-university-moratuwa-wins-first-prize-3rd-regional-association"> <b>3rd International Energy and Electricity Market Business Decision
+			Simulation Competition</b></a>.</td>
 	</tr>   
 	   
 	<tr>
