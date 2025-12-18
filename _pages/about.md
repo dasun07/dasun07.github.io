@@ -7,6 +7,50 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+  /* Make the main page title a bit smaller on THIS page */
+  .page__title {
+    font-size: 1.7rem;
+    margin-bottom: 0.75rem;
+  }
+
+  /* Reusable section heading (News, Research, etc.) */
+  .section-title {
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  /* Layout for highlighted research items */
+  .research-list {
+    margin-top: 0.5rem;
+  }
+
+  .research-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+  }
+
+  .research-thumb {
+    width: 140px;
+    height: auto;
+    margin-right: 1rem;
+    border-radius: 4px;
+  }
+
+  .research-item h3 {
+    font-size: 1.05rem;
+    margin: 0 0 0.25rem 0;
+  }
+
+  .research-item p {
+    margin: 0.1rem 0;
+  }
+</style>
+
 <div style="text-align: justify; width: 800px">
 I am a Graduate Research Intern at the Bioinformatics Institute, Singapore. Currently, I am working on Multi-instance Learning and Multi-task Learning based models for Computational Pathology, under the supervision of <a href="https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en">Dr. Lee Hwee Kuan</a>. My recent research interests lie in pattern recognition in histopathological images. More broadly, I am keen on studying statistical learning theory and applying theoretical knowledge to develop tools and frameworks for biomedical/ biological image analysis.
 
