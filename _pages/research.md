@@ -14,7 +14,9 @@ author_profile: True
 <p align="center"><img src="../images/ith.png" width="300"/></p>
 <p>&nbsp;</p>
 
+## Past Projects
 * **Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity**
+  - *Journal of Structural Biology, Volume 217, Issue 4, December 2025* [<a href = 'https://www.sciencedirect.com/science/article/pii/S1047847725000929'>Publication</a>]
   - *Undergraduate Thesis Project* [<a href = 'https://drive.google.com/file/d/1NkxO8fNq3UGV0jqNu1U2A8QNA0jpSgeo/view?usp=sharing'>Thesis</a>]
   - *Note*: Thesis completed, research paper to be submitted
   - **Supervisor(s)**: 
@@ -24,8 +26,15 @@ author_profile: True
 <p align ="center"><img src="../images/COMMODEL3.png" width="800"/></p>
 
   -- *If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.*
+  
+* **Multi-instance, Multi-task Learning for Cancer Histopathology Images**
+  - *Graduate Research Internship Project(s)* 
+  - **Supervisor(s)**: 
+    + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr. Lee Hwee Kuan</a> (Head of Research Division), Bioinformatics Institute, A*STAR, Singapore
+    + <a href = 'https://github.com/sagizty'>Tianyi Zhang</a> (Research Officer), Bioinformatics Institute, A*STAR, Singapore
+<p align="center"><img src="../images/ith.png" width="300"/></p>
+<p>&nbsp;</p>
 
-## Past Projects
 * **Patchwise Localization of Neovascularization in Fundus Images Using Transfer Learning**
   - *Self-initiated, Undergraduate Research Internship Project* [<a href = 'https://drive.google.com/file/d/1pdMF5yO26JVyZqFDgYLNlMHHPxDd7Doq/view?usp=sharing'>Report</a>] 
   - **Advisor**: 
