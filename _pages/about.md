@@ -83,8 +83,7 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">October 2025</td>
-    		<td style = "border: none;font-size:17px;"> Published the preprint of our work on nano-scale synapse tracking: <a href = "https://www.biorxiv.org/content/10.1101/2025.10.10.681691v1.full.pdf"><b>Uncertainty-Gated Min-Cost Flows for In Vivo
-			NanoScale Synaptic Plasticity Tracking</b></a>.</td> 	
+    		<td style = "border: none;font-size:17px;"> Published the preprint of our work on nano-scale synapse tracking: <b>Uncertainty-Gated Min-Cost Flows for In Vivo NanoScale Synaptic Plasticity Tracking </b> <a href = "https://www.biorxiv.org/content/10.1101/2025.10.10.681691v1.full.pdf"><b>(arxiv)</b></a>.</td> 	
 	</tr>
 	
 	<tr>
@@ -94,7 +93,7 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">August 2024</td>
-    		<td style = "border: none;font-size:17px;"> Started my PhD degree in Biomedical Engineering at Johns Hopkins University, USA.</td> 	
+    		<td style = "border: none;font-size:17px;"> Started my doctoral studies in Biomedical Engineering at Center for Imaging Science, Johns Hopkins University, USA.</td> 	
 	</tr>
 
     <tr>
