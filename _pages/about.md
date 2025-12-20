@@ -140,12 +140,16 @@ idth: 800px;">
 	</tr>
    </table> 
  </div>
- 
+
 <p>&nbsp;</p>
 
-Current and Past Affiliations:
+<b>Current and Past Affiliations:</b>
+<p></p>
+<img src="../images/JHUBME.png" width="130"/>
+<img src="../images/bii_astar_logo.jpg" width="160"/>
+<img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/>
+<img src="../images/maths.png" width="60"/>
 
-<img src="../images/JHUBME.png" width="130"/> <img src="../images/bii_astar_logo.jpg" width="160"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/><img src="../images/maths.png" width="60"/>
 
 
 
