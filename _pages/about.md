@@ -59,8 +59,7 @@ I am a 2nd-year PhD student at the Department of Biomedical Engineering at Johns
 	I completed my Bachelors in Biomedical Engineering (BME) at the Department of Electronic and Telecommunication Engineering (ENTC), University of Moratuwa, Sri Lanka in 2023. Subsequently, I worked as a Graduate Research Intern at the Bioinformatics Institute, Singapore, under the supervision of <a href="https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en">Dr. Lee Hwee Kuan</a>, where I focused on Multi-instance and Multi-task learning models for Computational Pathology.
 <p>&nbsp;</p> 
 
-<p>&nbsp;</p>
-	Outside of work, I enjoy thinking about different philosophies and watching anime.
+Outside of work, I enjoy thinking about different philosophies and watching anime.
 <p>&nbsp;</p> 
 
 <!-- 
