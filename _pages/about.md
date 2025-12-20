@@ -81,6 +81,22 @@ idth: 800px;">
        		<col span="1" style="width: 80%;">
     	</colgroup>
 
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">October 2025</td>
+    		<td style = "border: none;font-size:17px;"> Published our work on nano-scale synapse tracking: <b>Uncertainty-Gated Min-Cost Flows for In Vivo
+			NanoScale Synaptic Plasticity Tracking</b> in <a \href = "https://www.biorxiv.org/content/10.1101/2025.10.10.681691v1.full.pdf"><b>arxiv</b></a>.</td> 	
+	</tr>
+	
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">October 2025</td>
+    		<td style = "border: none;font-size:17px;"> Published our paper: <b>Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity</b> in <a \href = "https://www.sciencedirect.com/science/article/pii/S1047847725000929"><b>Journal of Structural Biology, Volume 217, Issue 4, December 2025</b></a>.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">August 2024</td>
+    		<td style = "border: none;font-size:17px;"> Started my PhD degree in Biomedical Engineering at Johns Hopkins University, USA.</td> 	
+	</tr>
+
     <tr>
     		<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
     		<td style = "border: none;font-size:17px;"> Awarded the <b>Gold Medal</b> for the highest overall academic performance in Biomedical Engineering at the 44th General Convocation of the University of Moratuwa, Sri Lanka.</td> 	
