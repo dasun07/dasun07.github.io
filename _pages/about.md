@@ -83,13 +83,13 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">October 2025</td>
-    		<td style = "border: none;font-size:17px;"> Published the preprint of our work on nano-scale synapse tracking: <a \href = "https://www.biorxiv.org/content/10.1101/2025.10.10.681691v1.full.pdf"><b>Uncertainty-Gated Min-Cost Flows for In Vivo
+    		<td style = "border: none;font-size:17px;"> Published the preprint of our work on nano-scale synapse tracking: <a href = "https://www.biorxiv.org/content/10.1101/2025.10.10.681691v1.full.pdf"><b>Uncertainty-Gated Min-Cost Flows for In Vivo
 			NanoScale Synaptic Plasticity Tracking</b></a>.</td> 	
 	</tr>
 	
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">October 2025</td>
-    		<td style = "border: none;font-size:17px;"> Published our paper: <b>Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity</b> in <a \href = "https://www.sciencedirect.com/science/article/pii/S1047847725000929"><b>Journal of Structural Biology, Volume 217, Issue 4, December 2025</b></a>.</td> 	
+    		<td style = "border: none;font-size:17px;"> Published our paper: <b>Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity</b> in <a href = "https://www.sciencedirect.com/science/article/pii/S1047847725000929"><b>Journal of Structural Biology, Volume 217, Issue 4, December 2025</b></a>.</td> 	
 	</tr>
 
 	<tr>
