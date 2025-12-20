@@ -59,7 +59,7 @@ I am a 2nd-year PhD student at the Department of Biomedical Engineering at Johns
 	I completed my Bachelors in Biomedical Engineering (BME) at the Department of Electronic and Telecommunication Engineering (ENTC), University of Moratuwa, Sri Lanka in 2023. Subsequently, I worked as a Graduate Research Intern at the Bioinformatics Institute, Singapore, under the supervision of <a href="https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en">Dr. Lee Hwee Kuan</a>, where I focused on Multi-instance and Multi-task learning models for Computational Pathology.
 <p>&nbsp;</p> 
 
-Outside of work, I enjoy thinking about different philosophies and watching anime.
+Outside of work, I enjoy thinking about different philosophies and spend time watching Formula 1, cricket and anime.
 <p>&nbsp;</p> 
 
 <!-- 
@@ -71,10 +71,6 @@ I am a Graduate Research Intern at the Bioinformatics Institute, Singapore. Curr
 
 
 <!-- <img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="200"/> -->
-<img src="../images/JHUBME.png" width="130"/> <img src="../images/bii_astar_logo.jpg" width="160"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/><img src="../images/maths.png" width="60"/>
-
-<p>&nbsp;</p>
-
 <h2 class="section-title">News</h2>
 	
  <div style="height: 500px; overflow: auto; w![237149619_2041424849347732_202933668616898933_n](https://user-images.githubusercontent.com/52663918/191795591-3ad8e2d3-7254-4906-87ea-c6bbe6165087.png)
@@ -144,6 +140,12 @@ idth: 800px;">
 	</tr>
    </table> 
  </div>
+ 
+<p>&nbsp;</p>
+
+Current and Past Affiliations:
+
+<img src="../images/JHUBME.png" width="130"/> <img src="../images/bii_astar_logo.jpg" width="160"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/><img src="../images/maths.png" width="60"/>
 
 
 
