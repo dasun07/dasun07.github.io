@@ -14,8 +14,6 @@ header:
 Prepare and grade assignments, update the learning management system (LMS) and set up the lecture room. I engage with students through email and during office hours, clarifying the doubts and questions they have from the lectures.
 * EN.580.431/631 Introduction to Computational Medicine: Imaging (Fall 2025)
 
-&nbsp;  
-
 ## Visiting Instructor/ Teaching Assistant - <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
 Assisted the lecturers in assignment preparation, evaluations, and laboratory work.
 * BM4151 Biosignal Processing (Fall 2023)
