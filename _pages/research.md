@@ -1,10 +1,22 @@
 ---
 layout: archive
-title: "Selected Research Projects"
+title: "Publications"
 permalink: /research/
 author_profile: True
 ---
+<b>Uncertainty-Gated Min-Cost Flows for In Vivo NanoScale Synaptic Plasticity Tracking</b><br/>
+Shashwat Kumar*, Gabrielle I. Coste*, <b>Dasun Premathilaka</b>, Richard L. Huganir, Austin R. Graves, Adam S. Charles, and Michael I. Miller <br/>
+Preprint, 2025. <br/>
+[[arxiv](https://www.biorxiv.org/content/10.1101/2025.10.10.681691v1.full.pdf)]
 
+<b> Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity </b><br/>
+Nuwan Bandara, <b>Dasun Premathilaka</b>, Sachini Chandanayake, Sahan Hettiarachchi, Vithurshan Varenthirarajah, Aravinda Munasinghe, Kaushalya Madhawa, and Subodha Charles<br/>
+Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
+[[paper](https://www.sciencedirect.com/science/article/pii/S1047847725000929)]
+<p>&nbsp;</p> 
+
+
+# Projects
 ## On-going Projects
 * **Multi-instance, Multi-task Learning for Cancer Histopathology Images**
   - *Graduate Research Internship Project(s)* 
