@@ -17,7 +17,7 @@ Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
 <p>&nbsp;</p> 
 
 
-# Projects
+# Research
 ## On-going Projects
 * **Multi-instance, Multi-task Learning for Cancer Histopathology Images**
   - *Graduate Research Internship Project(s)* 
