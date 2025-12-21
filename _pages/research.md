@@ -57,6 +57,7 @@ Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
 <p align="center"><img src="../images/ith.png" width="300"/></p>
 <p>&nbsp;</p>
 
+
 # Other Projects (From Undergraduate Days)
 * **Patchwise Localization of Neovascularization in Fundus Images Using Transfer Learning**
   - *Self-initiated, Undergraduate Research Internship Project* [<a href = 'https://drive.google.com/file/d/1pdMF5yO26JVyZqFDgYLNlMHHPxDd7Doq/view?usp=sharing'>Report</a>] 
