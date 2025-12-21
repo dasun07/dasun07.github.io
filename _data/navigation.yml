@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Simulations"
-    url: /simulations/
+  - title: "Archive"
+    url: /archive/
 
   # - title: "Featured"
   #   url: /talks/    
