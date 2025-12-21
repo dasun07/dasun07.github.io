@@ -32,7 +32,7 @@ Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
   - **Advisor(s)**: 
     + <a href = 'https://scholar.google.com/citations?user=0WhuKSwAAAAJ&hl=en'>Dr. Richard L. Huganir</a> (Professor), Johns Hopkins University, USA
     + <a href = 'https://scholar.google.com/citations?user=sJzw0U8AAAAJ&hl=en'>Dr. Austin R. Graves</a> (Assistant Research Professor), Johns Hopkins University, USA
-    + <a href = 'https://scholar.google.com/citations?user=c8RKLp0AAAAJ&hl=en'>Dr. Adam S. Charles</a> (Assitant Professor), Johns Hopkins University, USA
+    + <a href = 'https://scholar.google.com/citations?user=c8RKLp0AAAAJ&hl=en'>Dr. Adam S. Charles</a> (Assistant Professor), Johns Hopkins University, USA
     + <a href = 'https://scholar.google.com/citations?user=Ui8pnoIAAAAJ&hl=en'>Dr. Michael I. Miller</a> (Professor), Johns Hopkins University, USA
 <p align ="center"><img src="../images/synthetic_laplace.png" width="800"/></p>
 
@@ -57,6 +57,7 @@ Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
 <p align="center"><img src="../images/ith.png" width="300"/></p>
 <p>&nbsp;</p>
 
+# Other Projects (From Undergraduate Days)
 * **Patchwise Localization of Neovascularization in Fundus Images Using Transfer Learning**
   - *Self-initiated, Undergraduate Research Internship Project* [<a href = 'https://drive.google.com/file/d/1pdMF5yO26JVyZqFDgYLNlMHHPxDd7Doq/view?usp=sharing'>Report</a>] 
   - **Advisor**: 
