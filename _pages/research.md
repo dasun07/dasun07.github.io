@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /research/
 author_profile: True
 ---
-<p>&nbsp;</p> 
 <b>Uncertainty-Gated Min-Cost Flows for In Vivo NanoScale Synaptic Plasticity Tracking</b><br/>
 Shashwat Kumar, Gabrielle I. Coste, <b>Dasun Premathilaka</b>, Richard L. Huganir, Austin R. Graves, Adam S. Charles, and Michael I. Miller <br/>
 Preprint, 2025. <br/>
@@ -18,7 +17,7 @@ Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
 
 
 # Research
-## On-going Projects
+<!-- ## On-going Projects
 * **Multi-instance, Multi-task Learning for Cancer Histopathology Images**
   - *Graduate Research Internship Project(s)* 
   - **Supervisor(s)**: 
@@ -27,7 +26,18 @@ Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
 <p align="center"><img src="../images/ith.png" width="300"/></p>
 <p>&nbsp;</p>
 
-## Past Projects
+## Past Projects -->
+* **SynTrack: Nano-scale Synapse Tracking**
+  - *Journal of Structural Biology, Volume 217, Issue 4, December 2025* [<a href = 'https://www.sciencedirect.com/science/article/pii/S1047847725000929'>Publication</a>]
+  - *Undergraduate Thesis Project* [<a href = 'https://drive.google.com/file/d/1NkxO8fNq3UGV0jqNu1U2A8QNA0jpSgeo/view?usp=sharing'>Thesis</a>]
+  - **Supervisor(s)**: 
+    + <a href = 'https://scholar.google.no/citations?user=VhyUxgcAAAAJ&hl=en'>Dr. Subodha Charles</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
+    + <a href = 'https://scholar.google.com/citations?user=gJ1BhRoAAAAJ&hl=en'>Dr. Aravinda Munasinghe</a> (Senior Research Scientist), Pfizer Inc., USA
+    + <a href = 'https://scholar.google.com/citations?user=5ZSfU5wAAAAJ&hl=en'>Dr. Kaushalya Madhawa</a> (AI Scientist), University of Tokyo, Japan
+<p align ="center"><img src="../images/COMMODEL3.png" width="800"/></p>
+
+  -- *If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.*
+
 * **Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity**
   - *Journal of Structural Biology, Volume 217, Issue 4, December 2025* [<a href = 'https://www.sciencedirect.com/science/article/pii/S1047847725000929'>Publication</a>]
   - *Undergraduate Thesis Project* [<a href = 'https://drive.google.com/file/d/1NkxO8fNq3UGV0jqNu1U2A8QNA0jpSgeo/view?usp=sharing'>Thesis</a>]
