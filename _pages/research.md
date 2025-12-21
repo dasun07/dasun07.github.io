@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /research/
 author_profile: True
 ---
@@ -56,3 +56,5 @@ Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
     + <a href = 'https://github.com/sagizty'>Tianyi Zhang</a> (Research Officer), Bioinformatics Institute, A*STAR, Singapore
 <p align="center"><img src="../images/ith.png" width="300"/></p>
 <p>&nbsp;</p>
+
+-- For other projects, feel free check out the [Archive](/archive/) section. 
