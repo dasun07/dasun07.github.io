@@ -57,4 +57,4 @@ Journal of Structural Biology, Volume 217, Issue 4, December 2025.<br/>
 <p align="center"><img src="../images/ith.png" width="300"/></p>
 <p>&nbsp;</p>
 
--- For other projects, feel free check out the [Archive](/archive/) section. 
+-- For other projects, feel free to check out the [Archive](/archive/) section. 

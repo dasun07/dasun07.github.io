@@ -1,30 +1,51 @@
 ---
 layout: archive
-title: "Teaching and Learning"
+title: ""
 permalink: /academics/
 author_profile: True
+header:
+  show: false
 ---
 
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
 # Teaching
+## Teaching Assistant - <a href="https://www.bme.jhu.edu/"> BME, Johns Hopkins University</a>
+Prepare and grade assignments, update the learning management system (LMS) and set up the lecture room. I engage with students through email and during office hours, clarifying the doubts and questions they have from the lectures.
+* EN.580.431/631 Introduction to Computational Medicine: Imaging (Fall 2025)
+
+&nbsp;  
+
 ## Visiting Instructor/ Teaching Assistant - <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
-I assisted the lecturers in assignment preparation, evaluations, and laboratory work.
-* BM4151 Biosignal Processing, UoM, Sri Lanka (Fall 2023)
-* EN4553 Machine Vision, UoM, Sri Lanka (Fall 2023)
-* BM3122 Medical Imaging, UoM, Sri Lanka (Fall 2023)
-* EN3160 Image Processing and Machine Vision, UoM, Sri Lanka (Fall 2023)
-* EN3551 Digital Signal Processing, UoM, Sri Lanka (Fall 2023)
-* BM2012 Anatomy and Physiology for Engineers, UoM, Sri Lanka (Fall 2023)
+Assisted the lecturers in assignment preparation, evaluations, and laboratory work.
+* BM4151 Biosignal Processing (Fall 2023)
+* EN4553 Machine Vision (Fall 2023)
+* BM3122 Medical Imaging (Fall 2023)
+* EN3160 Image Processing and Machine Vision (Fall 2023)
+* EN3551 Digital Signal Processing (Fall 2023)
+* BM2012 Anatomy and Physiology for Engineers (Fall 2023)
 
 
 &nbsp;  
 
 
 # Learning
-## Selected Undergraduate Modules
-Up until the last semester as an undergraduate, I was involved in deep-learning research based on heuristic approaches. However, the ‘Pattern Recognition and Machine Intelligence’ module delivered by <a href = 'https://scholar.google.com/citations?user=4-S204cAAAAJ&hl=en'><b>Dr. Prathapasinghe Dharmawansa</b></a> made me realize the power and versatility of statistical machine learning and it catalyzed a passion to explore statistical approaches in medical image analysis. 
+## Graduate Studies
+Courses offered by Whiting School of Engineering and School of Medicine at JHU.
+### Applied Mathematics and Statistics
+* EN.553.780 Shape and Differential Geometry, by <a href = 'https://engineering.jhu.edu/faculty/laurent-younes/'>Prof. Laurent Younes</a>
+* EN.553.741 Machine Learning II, by <a href = 'https://engineering.jhu.edu/faculty/laurent-younes/'>Prof. Laurent Younes</a>
 
+### Biomedical Engineering
+* EN.580.631 Introduction to Computational Medicine: Imaging, by <a href = 'https://www.bme.jhu.edu/people/faculty/michael-i-miller/'>Prof. Michael I. Miller</a>
+
+### Neuro/Cognitive Sciences
+* EN.601.685 Probabilistic Models of the Visual Cortex, by <a href = 'https://www.cs.jhu.edu/~ayuille/'>Prof. Alan Yuille</a>
+
+&nbsp;
+
+## Selected Undergraduate Modules
+Laid a strong theoretical foundation and helped me discover my passion for core mathematical concepts and their applications in medical data analysis.
 ### Advanced Courses
 * EN4573 Pattern Recognition and Machine Intelligence:
   - Course content includes Multivariate Gaussian Density, Concentration of Measure in High Dimensions, Goals of Learning, Randomness of the Generalization Error, Inductive Bias, Density Estimation, Concentration Inequalities, Introduction to PAC Inequalities. (Reference materials are mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky</a>).
