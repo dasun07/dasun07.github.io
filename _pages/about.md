@@ -82,6 +82,11 @@ idth: 800px;">
     	</colgroup>
 
 	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">May 2026</td>
+    		<td style = "border: none;font-size:17px;"> Passed the Doctoral Board Oral (DBO) exam and officially advanced to PhD candidacy in Biomedical Engineering.</td> 	
+	</tr>
+
+	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">October 2025</td>
     		<td style = "border: none;font-size:17px;"> Published the preprint of our work on nano-scale synapse tracking: <b>Uncertainty-Gated Min-Cost Flows for In Vivo NanoScale Synaptic Plasticity Tracking </b> <a href = "https://www.biorxiv.org/content/10.1101/2025.10.10.681691v1.full.pdf"><b>(arxiv)</b></a>.</td> 	
 	</tr>
