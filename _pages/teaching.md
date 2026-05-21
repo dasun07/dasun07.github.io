@@ -11,7 +11,7 @@ header:
 
 # Teaching
 ## Teaching Assistant - <a href="https://www.bme.jhu.edu/"> BME, Johns Hopkins University</a>
-Prepare and grade assignments, update the learning management system (LMS) and set up the lecture room. I engage with students through email and during office hours, clarifying the doubts and questions they have from the lectures.
+Prepared and graded assignments, managed course content on the learning management system (LMS), and coordinated lecture room setup. Assisted students through office hours and email by clarifying concepts and doubts related to lecture material and coursework.
 * EN.580.431/631 Introduction to Computational Medicine: Imaging (Fall 2025)
 
 ## Visiting Instructor/ Teaching Assistant - <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
