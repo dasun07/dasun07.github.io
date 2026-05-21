@@ -36,6 +36,7 @@ Courses offered by Whiting School of Engineering and School of Medicine at JHU.
 
 ### Biomedical Engineering
 * EN.580.631 Introduction to Computational Medicine: Imaging, by <a href = 'https://www.bme.jhu.edu/people/faculty/michael-i-miller/'>Prof. Michael I. Miller</a>
+* EN.580.664 Advanced Data Science for BME, by <a href = 'https://www.bme.jhu.edu/people/faculty/jeremias-sulam/'>Prof. Jeremias Sulam</a>
 
 ### Neuro/Cognitive Sciences
 * EN.601.685 Probabilistic Models of the Visual Cortex, by <a href = 'https://www.cs.jhu.edu/~ayuille/'>Prof. Alan Yuille</a>
